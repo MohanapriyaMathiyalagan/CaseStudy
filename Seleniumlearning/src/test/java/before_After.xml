@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="sampleSuite" >
+
+  <test name="GoogleTest">
+  
+    <classes>
+      <class name="TestNG.GoogleTest"/>
+    </classes>
+  </test>
+   
+   <test name="YahooTest">
+     <classes>
+       <class name="TestNG.YahooTest"/>
+     
+     </classes>
+   
+   
+   </test>
+  
+  
+   
+</suite> 
